@@ -1,0 +1,23 @@
+LA TAREA DE MÓNICA
+#Título:         La tarea de Mónica
+#Descripción:    Problema para el Coding Rush
+#Temas:          lectura de datos, condicionales, matemáticas
+#Autor:          Mónica González García
+#Fecha:          03/10/2021
+
+Descripción
+Mónica va en quinto de primaria y su maestra le dejó de tarea varias sumas se fracciones. Ella tiene que resolverlas y simplificarlas para que el resultado sea la expresión mínima de la fracción. Como a Mónica no le gustan las matemáticas te ha pedido que le ayudes con su tarea.
+Problema
+Tu trabajo consiste en ayudarle a Mónica con su tarea, ya que no quiere reprobar en matemáticas. Por lo cual debes sumar las fracciones y reducir el resultado a su expresión mínima.
+Entrada
+En la primera línea 2 números enteros A y B, que corresponden al numerador y denominador de la fracción f1. En la segunda línea 2 números enteros C y D, que corresponden al numerador y denominador de la fracción f2.
+Salida
+Una sola línea que contiene uno o dos números enteros dependiendo a la simplificación de la fracción resultante.
+Ejemplo 1         Salida: 7 6
+1 2
+2 3
+
+Ejemplo 2         Salida:  2
+6 4
+2 4
+
